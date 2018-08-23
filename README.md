@@ -52,9 +52,9 @@ I will be posting lecture notes and other supplementary material (e.g., readings
 | ------------------------------------ | ---------- |
 | Problem Sets (approx. 10)            | 100        |
 | Hour Exams (2)                       | 40         |
-| Final Exam (1)                       | 30         |
+| Final Exam (1)                       | 40         |
 | Web Quizzes (approx. 10)             | 10         |
-| Class Activities and Participation   | 20         |
+| Class Activities and Participation   | 10         |
 
 ### Accommodations
 If you are a student with a documented disability seeking reasonable accommodations in this course, please contact Kathy Duggan, (617) 552-8093, dugganka@bc.edu, at the Connors Family Learning Center regarding learning disabilities and ADHD, or Rory Stein, (617) 552-3470, steinr@bc.edu, in the Disability Services Office regarding all other types of disabilities, including temporary disabilities. Advance notice and appropriate documentation are required for accommodations.
