@@ -26,7 +26,7 @@ In this course the student will write programs that employ more sophisticated an
 ### Course Websites
 [Problem sets and code on GitHub and GitHub Classroom:](https://github.com/BC-CSCI-1102-F18-MW) Problem sets and sample code will be distributed using GitHub. You must have a GitHub account to submit your problem sets. Problem Set 0 set will walk you through the process of accessing and submitting problem sets using GitHub and GitHub Classroom.
 
-[Lectures notes, web quizzes, grades, and supplementary materials on Canvas:](https://bostoncollege.instructure.com/courses/1586272) 
+[Lecture notes, web quizzes, grades, and supplementary materials on Canvas:](https://bostoncollege.instructure.com/courses/1586272) 
 I will be posting lecture notes and other supplementary material (e.g., readings, study guides) on Canvas. In addition, students will complete weekly web quizzes using Canvas, and grades will be posted to the Canvas gradebook.
 
 [Course schedule on Google Sheets:](https://docs.google.com/spreadsheets/d/1l9SyJeukRpBjjyKE4N5IbpU2AcpS_MUX8ksVs5GH-rE/edit?usp=sharing) The course schedule, including planned topics, due dates for readings and assignments, and dates of exams, is maintained as a Google Sheet. Changes to the schedule will be announced in class and reflected in the course schedule.
@@ -40,7 +40,7 @@ I will be posting lecture notes and other supplementary material (e.g., readings
 
 ### Course Policies
 
-**Attendance** Attendance is required. You are responsible for all the material that is covered during class, even when your absence from class is excused. While in attendance, you are expected to actively participate in whatever is going on in class. 
+**Attendance** Attendance is required. You are responsible for all the material that is covered during class, even when your absence from class is excused. While in attendance, you are expected to actively participate. 
 
 **Laptops** Class meetings will include lectures, demonstrations, and hands-on activities. Laptops should be closed unless we are writing code as part of a class activity.
 
