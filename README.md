@@ -21,7 +21,7 @@
 ---
 
 ### Course Description
-In this course the student will write programs that employ more sophisticated and efficient means of representing and manipulating information. Part of the course is devoted to a continued study of programming. The principal emphasis, however, is on the study of the fundamental data structures of computer science (lists, stacks, queues, trees, etc.). Both their abstract properties and their implementations in computer programs and the study of the fundamental algorithms for manipulating these structures. Students will use Java for programming.
+In this course the student will write programs that employ more sophisticated and efficient means of representing and manipulating information. Part of the course is devoted to a continued study of programming. The principal emphasis, however, is on the study of the fundamental data structures of computer science (lists, stacks, queues, trees, etc.), both their abstract properties and their implementations in computer programs and the study of the fundamental algorithms for manipulating these structures. Students will use Java for programming.
 
 ### Course Websites
 [Problem sets and code on GitHub and GitHub Classroom:](https://github.com/BC-CSCI-1102-F18-MW) Problem sets and sample code will be distributed using GitHub. You must have a GitHub account to submit your problem sets. Problem Set 0 set will walk you through the process of accessing and submitting problem sets using GitHub and GitHub Classroom.
